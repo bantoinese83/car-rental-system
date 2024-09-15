@@ -1,0 +1,17 @@
+sqlalchemy~=2.0.34
+fastapi~=0.112.2
+pydantic~=2.8.2
+passlib~=1.7.4
+loguru~=0.6.0
+starlette~=0.38.2
+python-dotenv~=1.0.1
+uvicorn~=0.20.0
+stripe~=10.11.0
+redis~=5.0.8
+aioredis~=2.0.1
+progress~=1.6
+rich~=13.8.1
+qrcode~=7.4.2
+faker~=28.4.1
+ujson~=5.10.0
+pytest~=7.4.4
